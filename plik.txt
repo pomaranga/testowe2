@@ -2,20 +2,11 @@ to jest plik do ćwiczeń, dopisujcie się
 to jest linia druga
 dodaję linię AniO
 Uszanowanko AO
-<<<<<<< HEAD
-<<<<<<< HEAD
-By�em tu - Gniewomir368
-dodaj� lini� - Laura
-witam - kacper/magikmontana
-=======
-=======
->>>>>>> 62402458e4628bc5c0f5feb05323d8abd1e62188
 Byłem tu - Gniewomir368
 dodaję linię - Laura
 widać mnie? ;D
-o, mam punkta?
-domy�lny tekst
-<<<<<<< HEAD
->>>>>>> 62402458e4628bc5c0f5feb05323d8abd1e62188
-=======
->>>>>>> 62402458e4628bc5c0f5feb05323d8abd1e62188
+o, mam punkta
+Unia Europejska powinna zostać...
+
+Dziękuje!
+czy to w końcu działa XD? mam nadzieję, że tak :D - BR
