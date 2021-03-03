@@ -3,12 +3,18 @@ to jest linia druga
 dodaję linię AniO
 Uszanowanko AO
 <<<<<<< HEAD
+<<<<<<< HEAD
 By�em tu - Gniewomir368
 dodaj� lini� - Laura
 witam - kacper/magikmontana
 =======
+=======
+>>>>>>> 62402458e4628bc5c0f5feb05323d8abd1e62188
 Byłem tu - Gniewomir368
 dodaję linię - Laura
 widać mnie? ;D
 o, mam punkta?
+<<<<<<< HEAD
+>>>>>>> 62402458e4628bc5c0f5feb05323d8abd1e62188
+=======
 >>>>>>> 62402458e4628bc5c0f5feb05323d8abd1e62188
